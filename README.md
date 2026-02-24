@@ -1,9 +1,6 @@
 ChipletSim: A Simulation Framework for Chiplet-Based DNN Accelerator Design
-Show Image
-Show Image
-Show Image
 
-Associated Paper: Effects of Poor Workload Partitioning on System Performances for Chiplet-Based Systems
+Associated Paper: Effects of Poor Workload Partitioning on System Performance for Chiplet-Based Systems
 [Peter Mbua, Peter Forcha, Christophe Bobda], [in Review at MDIP Electronics(Preprints.org)], [2026]
 [https://www.preprints.org/manuscript/202602.0486] | [Cite]
 
