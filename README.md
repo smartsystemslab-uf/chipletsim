@@ -3,8 +3,8 @@ Show Image
 Show Image
 Show Image
 
-Associated Paper: "Evaluating Workload Partitioning Strategies in Chiplet-Based Deep Neural Network Accelerators"
-[Author Names], [Conference/Journal Name], [Year]
+Associated Paper: Effects of Poor Workload Partitioning on System Performances for Chiplet-Based Systems
+[Peter Mbua, Peter Forcha, Christophe Bobda], [MDIP Electronics], [2026]
 [Paper Link] | [Cite]
 
 
