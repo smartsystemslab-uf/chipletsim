@@ -1,0 +1,15 @@
+name: chipletsim
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy>=1.23
+  - pandas>=1.5
+  - matplotlib>=3.6
+  - seaborn>=0.12
+  - jupyter
+  - pytest
+  - pip
+  - pip:
+    - pytest-cov

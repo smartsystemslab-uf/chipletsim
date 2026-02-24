@@ -1,0 +1,12 @@
+# requirements.txt
+# ============================================================
+# Paste this as a plain text file (not Python) — shown here for convenience
+#
+# numpy>=1.23
+# pandas>=1.5
+# matplotlib>=3.6
+# seaborn>=0.12
+# pytest>=7.0
+# pytest-cov
+# jupyter
+# nbformat
