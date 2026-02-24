@@ -4,8 +4,8 @@ Show Image
 Show Image
 
 Associated Paper: Effects of Poor Workload Partitioning on System Performances for Chiplet-Based Systems
-[Peter Mbua, Peter Forcha, Christophe Bobda], [MDIP Electronics], [2026]
-[Paper Link] | [Cite]
+[Peter Mbua, Peter Forcha, Christophe Bobda], [in Review at MDIP Electronics(Preprints.org)], [2026]
+[https://www.preprints.org/manuscript/202602.0486] | [Cite]
 
 
 Overview
